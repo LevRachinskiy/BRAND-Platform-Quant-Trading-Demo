@@ -8,7 +8,7 @@ This repo shows off a cool trading strategy using the BRAND platform. The idea i
 ## Repo Structure
 
 ```
-brand-platform-quant-trading-demo/
+Brand-platform-quant-trading-demo/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
